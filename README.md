@@ -1,3 +1,5 @@
+# Capture-and-Analyze-Network-Traffic-Using-Wireshark
+Capture and Analyze Network Traffic Using Wireshark
 WireShark_Task_5_Elevate-Labs
 Wireshark is a free, open-source network protocol analyzer that captures and inspects data packets traveling over a network. It's widely used by network administrators, security professionals, and developers to troubleshoot issues, analyze performance, and detect anomalies. It supports hundreds of protocols and provides detailed packet-level insights.
 
@@ -15,5 +17,4 @@ Statistics: Go to "Statistics" menu for summaries like protocol hierarchy, conve
 
 Troubleshooting: Identify latency by checking packet timestamps and flags. Security: Detect anomalies like unusual ports or encrypted traffic patterns. Performance: Analyze bandwidth usage with IO graphs (under Statistics).
 
-# Capture-and-Analyze-Network-Traffic-Using-Wireshark
-Capture and Analyze Network Traffic Using Wireshark
+
